@@ -1,0 +1,4 @@
+C:\Users\АНДРЕЙ\Desktop\резюме\лаб_6\лаб_6\obj\Debug\net6.0\лаб_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНДРЕЙ\Desktop\резюме\лаб_6\лаб_6\obj\Debug\net6.0\лаб_6.AssemblyInfoInputs.cache
+C:\Users\АНДРЕЙ\Desktop\резюме\лаб_6\лаб_6\obj\Debug\net6.0\лаб_6.AssemblyInfo.cs
+C:\Users\АНДРЕЙ\Desktop\резюме\лаб_6\лаб_6\obj\Debug\net6.0\лаб_6.csproj.CoreCompileInputs.cache

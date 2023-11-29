@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "лаб_6", "лаб_6\лаб_6.csproj", "{92E63894-F311-4185-9F62-952EB43138AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{03A92332-8900-4C06-B5BB-818AF3FAC2A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{D19B1143-7EC6-4CB2-BD26-170102C8DD8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E63894-F311-4185-9F62-952EB43138AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E63894-F311-4185-9F62-952EB43138AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E63894-F311-4185-9F62-952EB43138AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E63894-F311-4185-9F62-952EB43138AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A92332-8900-4C06-B5BB-818AF3FAC2A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A92332-8900-4C06-B5BB-818AF3FAC2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A92332-8900-4C06-B5BB-818AF3FAC2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A92332-8900-4C06-B5BB-818AF3FAC2A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19B1143-7EC6-4CB2-BD26-170102C8DD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19B1143-7EC6-4CB2-BD26-170102C8DD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19B1143-7EC6-4CB2-BD26-170102C8DD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19B1143-7EC6-4CB2-BD26-170102C8DD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27E526AF-200D-4279-AB4D-5BC34FE9B500}
+	EndGlobalSection
+EndGlobal
